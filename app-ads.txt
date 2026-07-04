@@ -161,3 +161,4 @@ xandr.com, 17779, RESELLER
 xandr.com, 13799, RESELLER
 xandr.com, 15840, RESELLER
 betweendigital.com, 45827, RESELLER
+google.com, pub-8828756539968191, DIRECT, f08c47fec0942fa0
